@@ -1,4 +1,4 @@
-# ⛰️ Project Zenith: Omni-Sovereign Architecture for Redmi 13C 5G / POCO M6 5G (`air_in`)
+# ⛰️ Project Zenith: The-Sovereign Architecture for Redmi 13C 5G / POCO M6 5G (`air_in`)
 
 ![Android Version](https://img.shields.io/badge/Android-15-3DDC84?style=flat-square&logo=android)
 ![HyperOS](https://img.shields.io/badge/HyperOS-2.0-FF6900?style=flat-square)
@@ -37,11 +37,11 @@ Xiaomi hardcoded a security whitelist into `system_server`. If any of these pack
 3. A terminal app (e.g., Stellar's Built-In Terminal, Termux with `rish`, or aShell).
 
 ### Execution
-1. Download the `zenith_v39_omni_sovereign.sh` script from this repository.
+1. Download the `zenith_v39_the_sovereign.sh` script from this repository.
 2. Open your Shizuku-elevated terminal.
 3. Run the script:
    ```bash
-   sh /path/to/zenith_v39_omni_sovereign.sh
+   sh /path/to/zenith_v39_the_sovereign.sh
    ```
 4. The script will automatically compile your apps to machine code (AOT), ghost the telemetry, and install the boot persistence daemon.
 5. **Reboot your device.**
