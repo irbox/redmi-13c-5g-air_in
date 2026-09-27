@@ -55,7 +55,7 @@ Zenith V41 completely abandons brute-force deletion. Instead, it weaponizes the 
 1. A Redmi 13C 5G or POCO M6 5G (`air` / `air_in`) running HyperOS 2.0 (Android 15).
 2. [**Shizuku**](https://shizuku.rikka.app/) (or Stellar Manager) installed and running via Wireless Debugging (UID 2000).
 3. A terminal app (e.g., Stellar's Built-In Terminal, Termux with `rish`).
-4. *(Highly Recommended)* An open-source launcher like [**Fossify Home**](https://github.com/FossifyOrg/Home) installed so Zenith can bind it as your default OS launcher.
+4. *(Highly Recommended)* An open-source launcher like [**Fossify Home and a whole suite of applications**](https://github.com/FossifyOrg/) installed so Zenith can bind it as your default OS launcher.
 
 ### Execution
 1. Download `zenith_v41_absolute.sh` from this repository.
