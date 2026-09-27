@@ -1,0 +1,15 @@
+# Android / OS generated files
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+
+# Local shell execution artifacts
+/Device_Extraction/
+*.sh.bak
+*.tmp
+
+# Ignore specific personal logs if accidentally dragged into repo
+uiderrors.txt
+RescuePartyLog*.zip
+system_full_posture.txt
