@@ -76,7 +76,7 @@ You do **not** need root or an unlocked bootloader. Run this via **ADB shell**, 
 ### Quick Install (Single Command)
 
 ```sh
-curl -sL https://raw.githubusercontent.com/<YOUR_USERNAME>/zenith-omega-air-in/main/zenith_omega.sh -o /data/local/tmp/zenith_omega.sh && chmod 755 /data/local/tmp/zenith_omega.sh
+curl -sL https://raw.githubusercontent.com/irbox/zenith-omega-air-in/main/zenith_omega.sh -o /data/local/tmp/zenith_omega.sh && chmod 755 /data/local/tmp/zenith_omega.sh
 ```
 
 ---
