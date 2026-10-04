@@ -77,8 +77,7 @@ You do **not** need root or an unlocked bootloader. Run this via **ADB shell**, 
 
 ```sh
 curl -sL https://raw.githubusercontent.com/<YOUR_USERNAME>/zenith-omega-air-in/main/zenith_omega.sh -o /data/local/tmp/zenith_omega.sh && chmod 755 /data/local/tmp/zenith_omega.sh
-
-
+```
 
 ---
 
